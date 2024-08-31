@@ -26,9 +26,9 @@ I'm a passionate **MERN Stack Developer** and **Python Developer** based in **[K
 
 ## 🧾 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Title of Your Blog Post](https://yourblog.com/blog-post)
-- [Another Blog Post Title](https://yourblog.com/blog-post-2)
-- [Yet Another Blog Post Title](https://yourblog.com/blog-post-3)
+- [Title ](https://yourblog.com/blog-post)
+- [ Title](https://yourblog.com/blog-post-2)
+- [ Blog Post Title](https://yourblog.com/blog-post-3)
 <!-- BLOG-POST-LIST:END -->
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Clifford537&color=blue)
