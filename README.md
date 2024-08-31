@@ -7,7 +7,7 @@ I'm a passionate **MERN Stack Developer** and **Python Developer** based in **[K
 - 🌱 Learning more about **[DevOps ]**
 - 💬 Ask me about **MERN Stack, Python, REST APIs, JWT Authentication**
 - 👯 Looking to collaborate on **open-source projects, full-stack applications, Python automation tools**
-- 📫 How to reach me: [Your Email](mailto:cliffordmukosh@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- 📫 How to reach me: [My Email](mailto:cliffordmukosh@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 - ⚡ Fun fact: **[I love solving coding challenges in my free time!]**
 
 ## 🛠️ Skills & Tools
