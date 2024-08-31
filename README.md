@@ -1,7 +1,7 @@
 # Hi there, I'm Clifford 👋
 
 ## 🌟 About Me
-I'm a passionate **MERN Stack Developer** and **Python Developer** based in **[Your Location]**. I enjoy building full-stack applications and solving problems using modern web technologies. With a solid foundation in both front-end and back-end development, I'm always looking to learn and implement new tools and frameworks.
+I'm a passionate **MERN Stack Developer** and **Python Developer** based in **[Kisumu]**. I enjoy building full-stack applications and solving problems using modern web technologies. With a solid foundation in both front-end and back-end development, I'm always looking to learn and implement new tools and frameworks.
 
 - 🔭 Currently working on **[Kazi Connect project]**
 - 🌱 Learning more about **[DevOps ]**
