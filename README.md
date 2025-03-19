@@ -8,7 +8,6 @@ I'm a passionate **MERN Stack Developer** and **Python Developer**. I enjoy buil
 - 💬 Ask me about **MERN Stack, Python, REST APIs, JWT Authentication**
 - 👯 Looking to collaborate on **open-source projects, full-stack applications, Python automation tools**
 - 📫 How to reach me: [My Email](mailto:cliffordmukosh@gmail.com) 
-- ⚡ Fun fact: **[I love solving coding challenges in my free time!]**
 
 ## 🛠️ Skills & Tools
 - **Languages:** ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
