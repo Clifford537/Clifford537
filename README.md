@@ -5,7 +5,7 @@ I'm a passionate **Full-Stack Developer** with experience in both **frontend and
 
 - 🔭 Currently looking for a role where I can utilize my skills and continue learning
 - 🌱 Learning more about **DevOps** and cloud deployment strategies
-- 💬 Ask me about **Full-Stack Development, Python, REST APIs, JWT Authentication**
+- 💬 Ask me about **Full-Stack Development, Javascript, REST APIs, JWT Authentication**
 - 👯 Looking to collaborate on **open-source projects, full-stack applications, Python automation tools**
 - 📫 Reach me at: [cliffordmukosh@gmail.com](mailto:cliffordmukosh@gmail.com)
 
